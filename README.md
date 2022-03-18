@@ -8,3 +8,5 @@ example.html#foo&bar
 console.log(anchorp.Get())
 >> ["foo", "bar"]
 ```
+
+Anchor tags can also be cleared from the current page/url by using `anchorp.Clear()`.
